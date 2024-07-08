@@ -108,6 +108,22 @@ nav li a{
   width: 580px;
 }
 
+.banner-buttons{
+  display: flex;
+  gap: 30px;
+}
+
+.contact-btn{
+  background-color: white;
+  border: 2px solid #FD6E0A;
+  font-weight: bold;
+  color: #FD6E0A;
+  padding: 18px 35px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
 /* main styles */
 
 main{
